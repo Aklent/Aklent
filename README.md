@@ -9,19 +9,17 @@
 </a>
 <h3 align="center">An aspiring Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
-- 🌱 Currently learning **Data Structures & Algorithms (C++)** and **Full-Stack Development (MERN)**  
+- 🌱 Currently learning **Data Structures & Algorithms Java** and **Full-Stack Development (MERN)**  
 - 💡 Passionate about **building scalable web applications** and exploring **AI/ML integration**  
 - 🎯 Goal: To become a **skilled problem solver and software developer**  
-- 📫 Reach me at **rehanpadlak@gmail.com**  
+- 📫 Reach me at **abhishekbaraskar65@gmail.com**  
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rehan-p-904343261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<a href="www.linkedin.com/in/abhishek-baraskar-86583a273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="https://leetcode.com/u/rehanpadlak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rehanpadlak" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="codeforces" height="30" width="40" />
 </a>
 
