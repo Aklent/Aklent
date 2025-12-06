@@ -12,7 +12,7 @@
 - 🌱 Currently learning **Data Structures & Algorithms Java** and **Full-Stack Development (MERN)**  
 - 💡 Passionate about **building scalable web applications** and exploring **AI/ML integration**  
 - 🎯 Goal: To become a **skilled problem solver and software developer**  
-- 📫 Reach me at **abhishekbaraskar65@gmail.com**  
+- 📫 Reach me at **rehanpadlak@gmail.com**  
 
 ---
 
